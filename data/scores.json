@@ -1,0 +1,402 @@
+[
+  {
+    "name": "Pragna",
+    "score": 85
+  },
+  {
+    "name": "Manogna",
+    "score": 90
+  },
+  {
+    "name": "Mia",
+    "score": 78
+  },
+  {
+    "name": "Sia",
+    "score": 92
+  },
+  {
+    "name": "Harsha Menon",
+    "score": 37
+  },
+  {
+    "name": "Manogna Gupta",
+    "score": 67
+  },
+  {
+    "name": "Sneha Iyer",
+    "score": 39
+  },
+  {
+    "name": "Divya Patel",
+    "score": 36
+  },
+  {
+    "name": "Diya Sharma",
+    "score": 37
+  },
+  {
+    "name": "Diya Kumar",
+    "score": 99
+  },
+  {
+    "name": "Meera Varma",
+    "score": 59
+  },
+  {
+    "name": "Rohan Das",
+    "score": 100
+  },
+  {
+    "name": "Nisha Das",
+    "score": 95
+  },
+  {
+    "name": "Diya Menon",
+    "score": 66
+  },
+  {
+    "name": "Nisha Naidu",
+    "score": 92
+  },
+  {
+    "name": "Rohan Sharma",
+    "score": 48
+  },
+  {
+    "name": "Harsha Iyer",
+    "score": 90
+  },
+  {
+    "name": "Swathi Rao",
+    "score": 98
+  },
+  {
+    "name": "Swathi Gupta",
+    "score": 85
+  },
+  {
+    "name": "Lakshmi Patel",
+    "score": 99
+  },
+  {
+    "name": "Manogna Iyer",
+    "score": 74
+  },
+  {
+    "name": "Tara Reddy",
+    "score": 62
+  },
+  {
+    "name": "Kiran Patel",
+    "score": 64
+  },
+  {
+    "name": "Kavya Das",
+    "score": 78
+  },
+  {
+    "name": "Nisha Joshi",
+    "score": 60
+  },
+  {
+    "name": "Riya Kumar",
+    "score": 52
+  },
+  {
+    "name": "Riya Joshi",
+    "score": 86
+  },
+  {
+    "name": "Aditya Patel",
+    "score": 79
+  },
+  {
+    "name": "Nikhil Kumar",
+    "score": 41
+  },
+  {
+    "name": "Pragna Das",
+    "score": 51
+  },
+  {
+    "name": "Aditya Joshi",
+    "score": 36
+  },
+  {
+    "name": "Teja Joshi",
+    "score": 44
+  },
+  {
+    "name": "Karthik Varma",
+    "score": 67
+  },
+  {
+    "name": "Sai Rao",
+    "score": 90
+  },
+  {
+    "name": "Tara Patel",
+    "score": 55
+  },
+  {
+    "name": "Nikhil Reddy",
+    "score": 42
+  },
+  {
+    "name": "Varun Reddy",
+    "score": 45
+  },
+  {
+    "name": "Pooja Naidu",
+    "score": 83
+  },
+  {
+    "name": "Varun Menon",
+    "score": 99
+  },
+  {
+    "name": "Pragna Rao",
+    "score": 71
+  },
+  {
+    "name": "Arjun Reddy",
+    "score": 66
+  },
+  {
+    "name": "Manogna Kumar",
+    "score": 72
+  },
+  {
+    "name": "Lakshmi Reddy",
+    "score": 40
+  },
+  {
+    "name": "Kavya Iyer",
+    "score": 93
+  },
+  {
+    "name": "Pragna Varma",
+    "score": 58
+  },
+  {
+    "name": "Tara Sharma",
+    "score": 55
+  },
+  {
+    "name": "Manogna Sharma",
+    "score": 69
+  },
+  {
+    "name": "Teja Varma",
+    "score": 92
+  },
+  {
+    "name": "Sneha Naidu",
+    "score": 35
+  },
+  {
+    "name": "Ananya Menon",
+    "score": 68
+  },
+  {
+    "name": "Meera Joshi",
+    "score": 81
+  },
+  {
+    "name": "Divya Kumar",
+    "score": 77
+  },
+  {
+    "name": "Kiran Rao",
+    "score": 76
+  },
+  {
+    "name": "Karthik Gupta",
+    "score": 66
+  },
+  {
+    "name": "Teja Kumar",
+    "score": 39
+  },
+  {
+    "name": "Aarav Sharma",
+    "score": 74
+  },
+  {
+    "name": "Kavya Patel",
+    "score": 62
+  },
+  {
+    "name": "Karthik Sharma",
+    "score": 80
+  },
+  {
+    "name": "Isha Reddy",
+    "score": 58
+  },
+  {
+    "name": "Riya Sharma",
+    "score": 35
+  },
+  {
+    "name": "Vikram Naidu",
+    "score": 77
+  },
+  {
+    "name": "Harsha Patel",
+    "score": 83
+  },
+  {
+    "name": "Aditya Kumar",
+    "score": 45
+  },
+  {
+    "name": "Varun Rao",
+    "score": 95
+  },
+  {
+    "name": "Rahul Patel",
+    "score": 70
+  },
+  {
+    "name": "Varun Patel",
+    "score": 99
+  },
+  {
+    "name": "Divya Naidu",
+    "score": 60
+  },
+  {
+    "name": "Kiran Das",
+    "score": 66
+  },
+  {
+    "name": "Mia Kumar",
+    "score": 99
+  },
+  {
+    "name": "Sia Rao",
+    "score": 35
+  },
+  {
+    "name": "Ananya Sharma",
+    "score": 46
+  },
+  {
+    "name": "Sia Sharma",
+    "score": 68
+  },
+  {
+    "name": "Mia Rao",
+    "score": 46
+  },
+  {
+    "name": "Sai Reddy",
+    "score": 53
+  },
+  {
+    "name": "Meera Sharma",
+    "score": 86
+  },
+  {
+    "name": "Nikhil Menon",
+    "score": 40
+  },
+  {
+    "name": "Arjun Naidu",
+    "score": 85
+  },
+  {
+    "name": "Vikram Patel",
+    "score": 37
+  },
+  {
+    "name": "Kavya Menon",
+    "score": 73
+  },
+  {
+    "name": "Rahul Gupta",
+    "score": 73
+  },
+  {
+    "name": "Rahul Sharma",
+    "score": 64
+  },
+  {
+    "name": "Riya Das",
+    "score": 45
+  },
+  {
+    "name": "Pooja Das",
+    "score": 54
+  },
+  {
+    "name": "Pragna Gupta",
+    "score": 84
+  },
+  {
+    "name": "Teja Patel",
+    "score": 76
+  },
+  {
+    "name": "Mia Das",
+    "score": 98
+  },
+  {
+    "name": "Arjun Varma",
+    "score": 54
+  },
+  {
+    "name": "Sneha Patel",
+    "score": 71
+  },
+  {
+    "name": "Rohan Iyer",
+    "score": 53
+  },
+  {
+    "name": "Isha Iyer",
+    "score": 40
+  },
+  {
+    "name": "Arjun Joshi",
+    "score": 100
+  },
+  {
+    "name": "Vikram Sharma",
+    "score": 89
+  },
+  {
+    "name": "Nikhil Sharma",
+    "score": 99
+  },
+  {
+    "name": "Isha Patel",
+    "score": 52
+  },
+  {
+    "name": "Sai Patel",
+    "score": 99
+  },
+  {
+    "name": "Lakshmi Rao",
+    "score": 37
+  },
+  {
+    "name": "Nisha Patel",
+    "score": 64
+  },
+  {
+    "name": "Karthik Kumar",
+    "score": 45
+  },
+  {
+    "name": "Diya Das",
+    "score": 38
+  },
+  {
+    "name": "Tara Das",
+    "score": 40
+  }
+]
